@@ -1,4 +1,4 @@
-# Opinioted and Usecase Based of Certainty Factor Algorithm
+# Opinionated and Usecase Based of Certainty Factor Algorithm
 
 ## Description
 
